@@ -77,6 +77,7 @@ This ensures every push or pull request is automatically validated.
 | ---------------------- | --------------------------------- |
 | **cypress/e2e/**       | All automated test cases          |
 | **cypress/fixtures/**  | Static test data used during runs |
+| **cypress/reports/**   | Mochawesome generated reports     |
 | **cypress/support/**   | Reusable commands and setup hooks |
 | **.github/workflows/** | GitHub Actions CI pipeline        |
 
